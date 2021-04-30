@@ -1,10 +1,8 @@
-# CUB-200-2011-dataset
-The **CUB-200-2011-dataset** from:
+# The CUB-200-2011 dataset by classes folder
+From:
 
 http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 
-Images palced in folders by classes.
-
-Download from Kaggle:
+**Download from Kaggle:**
 
 https://www.kaggle.com/cyizhuo/cub2002011
